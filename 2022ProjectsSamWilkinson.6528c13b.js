@@ -160,11 +160,11 @@
       });
     }
   }
-})({"fda6s":[function(require,module,exports,__globalThis) {
+})({"6DHTQ":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 51499;
+var HMR_SERVER_PORT = 1234;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -5432,6 +5432,6 @@ class MagneticFx {
     return Splitting;
 });
 
-},{}]},["fda6s","6kb64"], "6kb64", "parcelRequirea98c", {})
+},{}]},["6DHTQ","6kb64"], "6kb64", "parcelRequirea98c", {})
 
 //# sourceMappingURL=2022ProjectsSamWilkinson.6528c13b.js.map
